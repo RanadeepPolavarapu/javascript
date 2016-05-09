@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RanadeepPolavarapu/JavaScript-project-boilerplate/issues"
   },
-  "homepage": "https://github.com/RanadeepPolavarapu/JavaScript-project-boilerplate#readme"
+  "homepage": "https://github.com/RanadeepPolavarapu/JavaScript-project-boilerplate#readme",
+  "devDependencies": {
+    "polyjuice": "^2.1.5"
+  }
 }
