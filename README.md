@@ -1,1 +1,1 @@
-# JavaScript Project Boilerplate
+# JavaScript
