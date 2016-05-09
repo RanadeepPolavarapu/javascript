@@ -1,5 +1,5 @@
 {
-  "name": "javascript-project-boilerplate",
+  "name": "javascript",
   "version": "1.0.0",
   "description": "A boilerplate containing linters and other JavaScript specific configs for JavaScript projects.",
   "main": "main.js",
@@ -19,7 +19,8 @@
     "url": "https://github.com/RanadeepPolavarapu/JavaScript-project-boilerplate/issues"
   },
   "homepage": "https://github.com/RanadeepPolavarapu/JavaScript-project-boilerplate#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "polyjuice": "^2.1.5"
   }
 }
