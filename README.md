@@ -1,1 +1,1 @@
-# js-lint-boilerplate
+# JavaScript Project Boilerplate
