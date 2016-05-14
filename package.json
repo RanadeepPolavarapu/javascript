@@ -19,7 +19,9 @@
     "url": "https://github.com/RanadeepPolavarapu/JavaScript-project-boilerplate/issues"
   },
   "homepage": "https://github.com/RanadeepPolavarapu/JavaScript-project-boilerplate#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "polyjuice": "^2.1.7"
+  },
   "dependencies": {
     "polyjuice": "^2.1.5"
   }

@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "indent": [
+      2,
+      4,
+      {
+        "SwitchCase": 1
+      }
+    ],
+    "consistent-this": [
+      2,
+      "self"
+    ],
+    "sort-imports": 2
+  }
+}
